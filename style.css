@@ -1,24 +1,28 @@
+/* body background */
 body {
   background-color: #ff00ff;
 }
 
-
+/* style for header, main, and footer */
 header, main, footer {
   background-color: white;
   width: 650px;
   margin: auto;
 }
 
+/* font styles for h1 and h2 */
 h1, h2 {
   font-family: 'Courier New', Courier, monospace;
   color: #ff00ff; 
   text-align: center;
 }
 
+/* font size for h2 */
 h2 {
   font-size: 18px;
 }
 
+/* font styles for h3 */
 h3 {
   font-size: 18px;
   font-family: Proxima Nova, Helvetica, sans-serif;
@@ -26,22 +30,27 @@ h3 {
   text-transform: uppercase;
   letter-spacing: 1px;
 }
+
+/* font style for paragraphs, links and lists */
 p, a, li {
   font-family: Proxima Nova, Helvetica, sans-serif;
   font-size: 16px;
+  letter-spacing: 2px;
+  line-height: 20px;
 }
 
+/* centers main article content + adds padding */
 main article {
   text-align: center;
   padding: 5px;
 }
 
+/* aligns main article paragraphs and lists to the left */ 
 main article p, li {
   text-align: left;
-  letter-spacing: 2px;
-  line-height: 20px;
 }
 
+/* style for horizontal rule break */
 hr {
   height: 2px;
   background-color: #ff6fff;
@@ -50,11 +59,13 @@ hr {
   margin-bottom: 25px;
 }
 
+/* pseudo-element style for links */
 a:link { color: aquamarine; }
 a:visited { color: #651fff; }
 a:hover { color: #ff00ff; }
 a:active { color: #ff6fff; }
 
+/* style for footer */
 footer p {
   text-align: center;
   font-size: 10px;
