@@ -31,7 +31,6 @@ h3 {
   letter-spacing: 1px;
 }
 
-/* font style for paragraphs, links and lists */
 p, a, li {
   font-family: Proxima Nova, Helvetica, sans-serif;
   font-size: 16px;
@@ -39,13 +38,11 @@ p, a, li {
   line-height: 20px;
 }
 
-/* centers main article content + adds padding */
 main article {
   text-align: center;
   padding: 5px;
 }
 
-/* aligns main article paragraphs and lists to the left */ 
 main article p, li {
   text-align: left;
 }
