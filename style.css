@@ -12,7 +12,7 @@ header, main, footer {
 
 /* font styles for h1 and h2 */
 h1, h2 {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: 'Marcellus', monospace;
   color: #ff00ff; 
   text-align: center;
 }
