@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang = "en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Projects | Jazz Mancia</title>
+    <link
+    href="https://yarn.pm/normalize.css"
+    rel="stylesheet"
+    type="text/css"
+  />
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <link href='https://fonts.googleapis.com/css?family=Marcellus' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=Manrope' rel='stylesheet'>
+  </head>
+  <body>
+  <!-- header -->
+
+    <header>
+      <h1>Jazz Mancia</h1>
+      <h2>Web Developer</h2>
+    </header>
+<!-- main -->
+    <main>
+
+      <!-- Maine Flower Collective linked tile images vvv -->
+      <!-- Salt Vans -->
+      <!-- Trisha McCoy -->
+      <!-- SMHSM -->
+      <!-- Whittens Wellness -->
+      
+      <hr>
+      
+      <article>
+        <h3>Contact</h3>
+          <ul> <!-- unordered list -->
+            <li><a href="https://www.linkedin.com/in/jazzmancia" target="_blank">LinkedIn</a></li>
+            <li><a href="https://github.com/jazzmancia" target="_blank">GitHub</a></li>
+            <li><a href="mailto:jazzmancia@gmail.com" target="_blank">E-mail</a></li>
+          </ul> <!-- end of unordered list -->
+        </article>
+      </main>
+
+<!-- footer -->
+    <footer>
+      <p>© Jazz Mancia</p>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
